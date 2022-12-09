@@ -1,0 +1,32 @@
+/* Style sheet */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+/* headers */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: #222;
+}
+
+/* paragraph/text */
+p {
+    margin: 0 0 1em 0;
+}
+
+/* links */
+a {
+    color: #00f;
+    text-decoration: none;
+}
+
+/* hover on links */
+a:hover {
+    text-decoration: underline;
+}
